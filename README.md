@@ -8,3 +8,4 @@ Feel free to contribute! 😀
 ---
 # Blog-Einträge
 - Eintrag [#1](https://github.com/green-sprout/blog/discussions/1) 
+- Eintrag [#2](https://github.com/green-sprout/blog/discussions/3)
