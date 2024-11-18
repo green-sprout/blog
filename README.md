@@ -12,4 +12,4 @@ Feel free to contribute! 😀
 - Eintrag [#3](https://github.com/green-sprout/blog/discussions/4)
 - Eintrag [#4](https://github.com/green-sprout/blog/discussions/5)
 - Eintrag [#5](https://github.com/green-sprout/blog/discussions/6)
-- Eintrag [#6] (https://github.com/green-sprout/blog/discussions/7) 
+- Eintrag [#6](https://github.com/green-sprout/blog/discussions/7) 
